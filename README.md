@@ -1,27 +1,30 @@
 # Hi, I'm Dawid 👋
 
-**Product guy, serial entrepreneur based in Berlin, Germany.**
+**Building Claude Code skills · Berlin**
 
-I build products at the intersection of AI and real-world workflows — from LLM integrations and automation pipelines to product strategy.
-
----
-
-## 🛠 Tech & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logoColor=white)
+I create tools and skills for Claude Code — AI-powered workflows that fit into how people actually work.
 
 ---
 
-## 🤖 What I'm working on
+## 🛠 What I'm building
 
-- Building AI-powered workflows and automation with **n8n** and **Claude** and local LLMs
-- Developing intelligent agents and skills for the **Claw** platform
-- Exploring **self-hosted AI** infrastructure with Ollama
+### [taxde-skill](https://github.com/googlarz/taxde-skill)
+German tax intelligence assistant for Claude Code. 8 operating modes — deduction hunter, life events, ELSTER guide. The financial advisor the German middle class never had access to.
+
+### [claude-assistant](https://github.com/googlarz/claude-assistant)
+Google Calendar skill for Claude Code. Writes rich, context-aware entries with conversation links, conflict detection, free slot finder, and daily digest.
+
+### [proactive-claw](https://github.com/googlarz/proactive-claw)
+Proactive execution engine for OpenClaw. Suggests prep blocks, buffers, and follow-ups. Learns your style. Runs locally. Asks before applying anything.
+
+---
+
+## 🔧 Tech & Tools
+
+\![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+\![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
+\![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+\![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
